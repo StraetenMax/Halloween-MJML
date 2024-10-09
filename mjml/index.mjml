@@ -17,7 +17,7 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#ffffff">      
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
         <mj-text>Cliquez ici pour lire le message en ligne | Cliquez ici pour vous désinscrire</mj-text>
       </mj-column>
@@ -29,42 +29,45 @@
     </mj-section>
     <mj-section padding="0" background-color="#1b1b1b">
       <mj-column>
-        <mj-text>Le catalogue pour réussir</mj-text>
-        <mj-text>vote Halloween</mj-text>
+        <mj-text align="center">Le catalogue pour réussir</mj-text>
+        <mj-text align="center">vote Halloween</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section> 
+    <mj-section padding="0"> 
       <mj-column> 
-        <mj-text>Sortez vos sorcières, vos toiles d'araignée, vos citrouilles et vos squelettes du placard pour la plus terrifiante et la plus amusante des soirées de l'année. Les nombreuses nouveautés et les incontournables d'Halloween sont à (re)découvrir en feuilletant notre nouveau Catalogue 2024 "Halloween".</mj-text>
-        <mj-text>Le catalogue d'Halloween, rassemble également de nombreux accessoires de déguisements (masques, chapeaux, perruques ou maquillage) et une large gamme de confiseries. Ainsi les petits monstres de passage n'auront pas à dévorer vos administrés et clients ! </mj-text>
+        <mj-text align="center">Sortez vos sorcières, vos toiles d'araignée, vos citrouilles et vos squelettes du placard pour la plus terrifiante et la plus amusante des soirées de l'année. Les nombreuses nouveautés et les incontournables d'Halloween sont à (re)découvrir en feuilletant notre nouveau Catalogue 2024 "Halloween".</mj-text>
+        <mj-text align="center">Le catalogue d'Halloween, rassemble également de nombreux accessoires de déguisements (masques, chapeaux, perruques ou maquillage) et une large gamme de confiseries. Ainsi les petits monstres de passage n'auront pas à dévorer vos administrés et clients ! </mj-text>
         <mj-button>Feuilletez le catalogue</mj-button>
         <mj-text>Tarif TTC 2024 pouvant varier : merci de se fier aux tarifs et disponibilités du site.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="https://i.ibb.co/pfrqBf6/tous-catalogue.jpg"></mj-image>
       </mj-column>
-      <mj-column width="100%">
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
         <mj-text>Une team votre service :</mj-text>
         <mj-text>Depuis 1951, Le Géant de La Fête - Ets Bellier est au service des associations, des collectivités et des particuliers pour organiser vos fêtes : mariages, anniversaires, baptêmes, animations en EHPAD, kermesses, compétitions sportives, Halloween, Nouvel An...</mj-text>
         <mj-text>Sachez le : Nous avons l'habitude de travailler avec les collectivités et les maisons de retraites qui règlent en différé sur facture ou via Chorus. Donc ce mode de réglement vous est directement proposé sur le site. C'est simple et rapide !! Si vous préférez, envoyez-nous votre bon de commande et on s'occupe de tout ! Nous acceptons également les règlements par chèque ou virement bancaire (en plus de la carte et Paypal). Attention, nous ne réservons pas les produits tant que la commande n'est pas facturée.</mj-text>
         <mj-divider></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="https://i.ibb.co/7yfjHqY/footer-icons.jpg"></mj-image>
       </mj-column>
       <mj-column width="100%">
-        <mj-text>Contactez-nous</mj-text>
-        <mj-text>246 rue du Général Leclerc 45240 La Ferté Saint Aubin FR</mj-text>
-        <mj-text>02.38.76.52.78 - contact@legeantdelafete.com</mj-text>
-        <mj-text>www.legeantdelafete.com</mj-text>
-        <mj-text>WEB : Du lundi au vendredi de 9h à 12h15 de 13h à 17h30</mj-text>
-        <mj-text>Magasin : Du mardi au vendredi de 9h à 12h30 - 14h à 19h et samedi de 9h à 18h</mj-text>
+        <mj-text align="center">Contactez-nous</mj-text>
         <mj-spacer></mj-spacer>
-        <mj-text>Cliquez ici pour vous désinscrire</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center">246 rue du Général Leclerc 45240 La Ferté Saint Aubin FR</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center">02.38.76.52.78 - contact@legeantdelafete.com</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center">www.legeantdelafete.com</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center">WEB : Du lundi au vendredi de 9h à 12h15 de 13h à 17h30</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center">Magasin : Du mardi au vendredi de 9h à 12h30 - 14h à 19h et samedi de 9h à 18h</mj-text>
+        <mj-spacer></mj-spacer>
+        <mj-text align="center">Cliquez ici pour vous désinscrire</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
