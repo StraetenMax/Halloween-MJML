@@ -50,7 +50,7 @@
     </mj-section>
     <mj-section padding="0">
       <mj-column padding="0">
-        <mj-text padding="16px 0 0 0" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="bold" line-height="17px" color="#000000">Une team votre service :</mj-text>
+        <mj-text padding="16px 0 0 0" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="bold" line-height="17px" color="#000000">Une team à votre service :</mj-text>
         <mj-text padding="0" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#000000">Depuis 1951, Le Géant de La Fête - Ets Bellier est au service des associations, des collectivités et des particuliers pour organiser vos fêtes : mariages, anniversaires, baptêmes, animations en EHPAD, kermesses, compétitions sportives, Halloween, Nouvel An...</mj-text>
         <mj-text padding="16px 0 0 0" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#000000"><span style="font-weight:bold;">Sachez le :</span> Nous avons l'habitude de travailler avec les collectivités et les maisons de retraites qui règlent en différé sur facture ou via Chorus. Donc ce mode de réglement vous est directement proposé sur le site. C'est simple et rapide !! Si vous préférez, envoyez-nous votre bon de commande et on s'occupe de tout ! Nous acceptons également les règlements par chèque ou virement bancaire (en plus de la carte et Paypal). Attention, nous ne réservons pas les produits tant que la commande n'est pas facturée.</mj-text>
         <mj-divider padding="8px 0" border-color="#1b1b1b" border-width="1px"></mj-divider>
