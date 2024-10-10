@@ -55,40 +55,32 @@
         <mj-text padding="16px 0 8px 0" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#000000"><span style="font-weight:bold;">Sachez le :</span> Nous avons l'habitude de travailler avec les collectivités et les maisons de retraites qui règlent en différé sur facture ou via Chorus. Donc ce mode de réglement vous est directement proposé sur le site. C'est simple et rapide !! Si vous préférez, envoyez-nous votre bon de commande et on s'occupe de tout ! Nous acceptons également les règlements par chèque ou virement bancaire (en plus de la carte et Paypal). Attention, nous ne réservons pas les produits tant que la commande n'est pas facturée.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
-      <mj-column>
-        <mj-divider padding="0" border-color="#1b1b1b" border-width="1px"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="10px 0 0 0" background-color="#1b1b1b">
-      <mj-column width="100%">
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/7yfjHqY/footer-icons.jpg"></mj-image>
-      </mj-column>
-      <mj-group width="50%" padding="10px">
+    <mj-section padding="10px 20px 0 20px" background-color="#1b1b1b">
+      <mj-group width="50%">
         <mj-column>
-          <mj-image padding="0" width="300px" src=""></mj-image>
-          <mj-text align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="12px" font-weight="normal" line-height="17px" color="#f2f2f2">Vos colis chez vous en 24 heures</mj-text>
+          <mj-image width="200px" src="https://i.ibb.co/K0myL1q/temps.png"></mj-image>
+          <mj-text padding-top="0" padding-left="10px" padding-right="10px" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="13px" font-weight="normal" line-height="18px" color="#f2f2f2">Vos colis chez vous en 24 heures</mj-text>
         </mj-column>
         <mj-column>
-          <mj-image padding="0" width="300px" src=""></mj-image>
-          <mj-text align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="12px" font-weight="normal" line-height="17px" color="#f2f2f2">Livraison à domicile et en Point Relais</mj-text>
+          <mj-image width="200px" src="https://i.ibb.co/N61FcCf/livraison.png"></mj-image>
+          <mj-text padding-top="0" padding-left="10px" padding-right="10px" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="13px" font-weight="normal" line-height="18px" color="#f2f2f2">Livraison à domicile et en Point Relais</mj-text>
         </mj-column>
       </mj-group>
-      <mj-group width="50%" padding="10px">
+      <mj-group width="50%">
         <mj-column>
-          <mj-image padding="0" width="300px" src=""></mj-image>
-          <mj-text align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="12px" font-weight="normal" line-height="17px" color="#f2f2f2">+8000 produits en ligne</mj-text>
+          <mj-image width="200px" src="https://i.ibb.co/7299VyM/panier.png"></mj-image>
+          <mj-text padding-top="0" padding-left="10px" padding-right="10px" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="13px" font-weight="normal" line-height="18px" color="#f2f2f2">+ de 8000 produits en ligne</mj-text>
         </mj-column>
         <mj-column>
-          <mj-image padding="0" width="300px" src=""></mj-image>
-          <mj-text align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="12px" font-weight="normal" line-height="17px" color="#f2f2f2">Paiement par CB, Paypal, Chèque ou virement</mj-text>
+          <mj-image width="200px" src="https://i.ibb.co/Tg4PLgs/paiement.png"></mj-image>
+          <mj-text padding-top="0" padding-left="10px" padding-right="10px" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="13px" font-weight="normal" line-height="18px" color="#f2f2f2">Paiement par CB, Paypal, Chèque ou virement</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
         <mj-text padding="20px 0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="16px" font-weight="bold" line-height="19px" color="#fe8a00">Contactez-nous</mj-text>
         <mj-text padding-top="0" padding-bottom="0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#f2f2f2">246 rue du Général Leclerc 45240 La Ferté Saint Aubin FR</mj-text>
         <mj-text padding-top="0" padding-bottom="0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#f2f2f2">02.38.76.52.78 - contact@legeantdelafete.com</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px"><a style="text-decoration:none;color:#0000ee;" href="#" target="_blank">www.legeantdelafete.com</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px"><a style="color:#f2f2f2;" href="#" target="_blank">www.legeantdelafete.com</a></mj-text>
         <mj-text padding-top="0" padding-bottom="0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#f2f2f2">WEB : Du lundi au vendredi de 9h à 12h15 de 13h à 17h30</mj-text>
         <mj-text padding-top="0" padding-bottom="0" align="center" font-family="Univers, Arial, Helvetica, sans-serif" font-size="14px" font-weight="normal" line-height="17px" color="#f2f2f2">Magasin : Du mardi au vendredi de 9h à 12h30 - 14h à 19h et samedi de 9h à 18h</mj-text>
         <mj-spacer height="20px"></mj-spacer>
